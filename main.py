@@ -6,6 +6,7 @@ from day04 import task_alternative_solution as task4_2
 from day05 import task as task5
 from day06 import task as task6
 from day07 import task as task7
+from day08 import task as task8
 
 if __name__ == '__main__':
     # task1.solve()
@@ -15,4 +16,5 @@ if __name__ == '__main__':
     # task4_2.solve()
     # task5.solve()
     # task6.solve()
-    task7.solve()
+    # task7.solve()
+    task8.solve()
